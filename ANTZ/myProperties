@@ -1,0 +1,4 @@
+#
+#Sat Nov 28 13:51:04 MSK 2020
+interface\ com.company.SomeInterface=com.company.SomeImpl
+interface\ com.company.SomeOtherInterface=com.company.SODoer
